@@ -9,7 +9,7 @@ using namespace std;
 const int GRID_WIDTH = 20;
 const int GRID_HEIGHT = 20;
 const int INITIAL_SNAKE_LENGTH = 3;
-
+//griekgn
 enum Direction { STOP = 0, LEFT, RIGHT, UP, DOWN };
 
 struct Node {
